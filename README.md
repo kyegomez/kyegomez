@@ -74,15 +74,13 @@ We're designers, architects, musicians, artists, engineers, and above all - we'r
 
 ## 📣 Spread the Word
 
-Love what we're doing at Agora? Help us by spreading the word
+Like my work? Help me by spreading the word about our mission and projects. Share my with your friends and colleagues across your favorite social media platforms:
 
- about our mission and projects. Share Agora with your friends and colleagues across your favorite social media platforms:
+* [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://github.com/kyegomez)
+* [Share on Twitter](https://twitter.com/intent/tweet?url=https://github.com/kyegomez&text=Check%20out%20Agora!%20They're%20advancing%20humanity%20through%20open-source%20multi-modality%20AI%20research.%20)
+* [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/kyegomez&title=Agora&summary=Advancing%20humanity%20through%20open-source%20multi-modality%20AI%20research.%20)
+* [Share on Reddit](http://www.reddit.com/submit?url=https://github.com/kyegomez&title=Agora:%20Advancing%20Humanity%20Through%20Open-Source%20Multi-Modality%20AI%20Research)
 
-* [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Agora-X)
-* [Share on Twitter](https://twitter.com/intent/tweet?url=https://github.com/Agora-X&text=Check%20out%20Agora!%20They're%20advancing%20humanity%20through%20open-source%20multi-modality%20AI%20research.%20)
-* [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Agora-X&title=Agora&summary=Advancing%20humanity%20through%20open-source%20multi-modality%20AI%20research.%20)
-* [Share on Reddit](http://www.reddit.com/submit?url=https://github.com/Agora-X&title=Agora:%20Advancing%20Humanity%20Through%20Open-Source%20Multi-Modality%20AI%20Research)
-
-Or simply share this link with your friends: https://github.com/Agora-X
+Or simply share this link with your friends: https://github.com/kyegomez
 
 Thank you for supporting Agora! 💖
