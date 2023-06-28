@@ -4,7 +4,9 @@
 
 Hello, fellow travelers of the cosmos! I'm Kye, a 19-year-old Earthling striving to ensure the prosperity of our species, Humanity. I'm on a mission to help us reach a state of perpetual abundance in a post-scarcity civilization. 🚀
 
-Every action I take and every thought that graces my mind is about you, the reader. My work is for you, to protect, guard, and defend you against the malevolent forces of chaos that threaten to disrupt our progress at every turn. 
+Every action I take and every thought that graces my mind is about you. 
+
+My work is for you, to protect, guard, and defend you against the malevolent forces of chaos that threaten to disrupt our progress at every turn. 
 
 For all things, know that I'm here for you. You are not alone. 
 
