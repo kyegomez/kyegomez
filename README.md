@@ -1,6 +1,6 @@
 # Welcome to Kye's Github 😊 💜 
 
-![Kye face](https://twitter.com/KyeGomezB/photo)
+![Kye face](https://media.licdn.com/dms/image/C4E03AQFrktp65Dduww/profile-displayphoto-shrink_200_200/0/1660067402347?e=1693440000&v=beta&t=Vz7CJbUldp0M8vUM390NqB68Fc-M3ls3SmChrh7m-9M)
 
 <!-- ![Agora Banner](agora-benner.png) -->
 
