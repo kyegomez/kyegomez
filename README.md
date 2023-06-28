@@ -1,5 +1,7 @@
 # Welcome to Kye's Github 😊 💜 
 
+![Kye face](https://twitter.com/KyeGomezB/photo)
+
 <!-- ![Agora Banner](agora-benner.png) -->
 
 I am a 19 year old Human from Terra, working hard to make sure that my species Humanity doesn't die and rather excels into perpetual abundance in a post-scarcity civilization! 
