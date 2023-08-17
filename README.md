@@ -1,8 +1,10 @@
-# 🌌 Welcome to Kye's Cosmos on GitHub 💫
+# 🌌 Welcome to Kye's GitHub 💫
 
 ![Kye face](https://media.licdn.com/dms/image/C4E03AQFrktp65Dduww/profile-displayphoto-shrink_200_200/0/1660067402347?e=1693440000&v=beta&t=Vz7CJbUldp0M8vUM390NqB68Fc-M3ls3SmChrh7m-9M)
 
-Hello, fellow travelers of the cosmos! I'm Kye, a 19-year-old Earthling striving to ensure the prosperity of our species, Humanity. I'm on a mission to help us reach a state of perpetual abundance in a post-scarcity civilization. 🚀
+Hello, fellow travelers of Github! 
+
+I'm Kye, a 19-year-old Earthling striving to ensure the prosperity of our species, Humanity. I'm on a mission to help us reach a state of perpetual abundance in a post-scarcity civilization by democratizing the best AI models ever made. 🚀
 
 Every action I take and every thought that graces my mind is about you. 
 
