@@ -36,6 +36,9 @@ In the vast expanse of our cosmic quest, several projects serve as our guiding s
 
 🌍 [Swarms](https://github.com/kyegomez/swarms): The facilitator of AI agent swarms, a beacon for distributed AI tasks and crowd-based learning.
 
+## Custom Model
+* [Click here to file an application for me to build your custom model](https://forms.gle/W2s46xFejaW5Fv32A)
+
 ## 🌌 Share Kye's Work
 
 If you believe in our mission and appreciate my work, help us by spreading the word. Share my GitHub with your network across your favorite platforms:
