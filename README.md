@@ -8,7 +8,7 @@ I'm on a mission to help us reach a state of perpetual abundance in a post-scarc
 
 I'm the leader of Agora, the open source Multi-Modality AI research organization devoted to cultivating superintelligent Multi-Modality AI. [Join our discord 😊 ](https://apac.ai/agora)
 
-the CEO of APAC AI where we advance Humanity Multi-Modality AI. [Check out our website](https://apac.ai)
+And, I reign as the CEO of APAC AI where we advance Humanity Multi-Modality AI. [Check out our website](https://apac.ai)
 
 And, I'm also the leader of a vertical AI-optimized farming corporation who seeks to mass produce healthy organic food on an unimaginable scale with AI-managed facilities!
 
