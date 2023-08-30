@@ -2,9 +2,13 @@
 
 ![Kye face](https://media.licdn.com/dms/image/C4E03AQFrktp65Dduww/profile-displayphoto-shrink_200_200/0/1660067402347?e=1693440000&v=beta&t=Vz7CJbUldp0M8vUM390NqB68Fc-M3ls3SmChrh7m-9M)
 
-Hello, fellow travelers of Github! 
+I'm Kye, a 19-year-old Earthling striving to ensure the prosperity of our species, Humanity. 
 
-I'm Kye, a 19-year-old Earthling striving to ensure the prosperity of our species, Humanity. I'm on a mission to help us reach a state of perpetual abundance in a post-scarcity civilization by democratizing the best AI models ever made. 🚀
+I'm on a mission to help us reach a state of perpetual abundance in a post-scarcity civilization by democratizing the best AI models ever made. 🚀
+
+I'm the leader of Agora, the CEO of APAC AI where we advance Humanity Multi-Modality AI. [Check out our website](https://apac.ai)
+
+And, I'm also the leader of a vertical AI-optimized farming corporation who seeks to mass produce healthy organic food on an unimaginable scale with AI-managed facilities!
 
 Every action I take and every thought that graces my mind is about you. 
 
@@ -35,6 +39,8 @@ In the vast expanse of our cosmic quest, several projects serve as our guiding s
 💫 [StarLight Vision](https://github.com/kyegomez/StarlightVision): Our lens to the future of content creation, offering text-to-video generation.
 
 🌍 [Swarms](https://github.com/kyegomez/swarms): The facilitator of AI agent swarms, a beacon for distributed AI tasks and crowd-based learning.
+
+🏝️ [Zeta](https://github.com/kyegomez/zeta): The Ultimate Framework to build the best LLMs and Multi-Modality Foundation Models
 
 ## Custom Model
 * [Click here to file an application for me to build your custom model](https://forms.gle/W2s46xFejaW5Fv32A)
