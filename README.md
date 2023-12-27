@@ -1,10 +1,11 @@
+- Advancing Humanity through open source multi-modal and collective intelligence research.
 - CEO of [Swarms](https://www.swarms.world/), enabling enterprises to build, deploy, and scale swarms of autonomous agents for workflow automation.
 - Leader of Agora, advancing Humanity with open source AI research on Multi-Modal and collective intelligence.
 - 👉 [Join Agora Discord Now](https://discord.gg/qUtxnK2NMf)
-- I open source absolutely everything I do, so if something does not work please let me know.
 - Support me financially [here](https://polar.sh/kyegomez) so I can continue working on open source AI to advance Humanity
 - We're actively fundraising for Swarms and Zeta so if you would like to invest please schedule a conversation with me [here](https://calendly.com/swarm-corp/30min)
 - My email is kye@apac.ai if you want to contact me for professional inquries
 - [Follow me on twitter for breakdown on AI model architectures](https://twitter.com/KyeGomezB)
 - [Subscribe to my YouTube for new demo videos of my creations](https://www.youtube.com/@kyegomez3242)
 - [Sponsor me on GitHub here](https://github.com/sponsors/kyegomez)
+- I open source absolutely everything I do, so if something does not work please let me know.
