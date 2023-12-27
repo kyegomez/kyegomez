@@ -9,3 +9,7 @@
 - [Subscribe to my YouTube for new demo videos of my creations](https://www.youtube.com/@kyegomez3242)
 - [Sponsor me on GitHub here](https://github.com/sponsors/kyegomez)
 - I open source absolutely everything I do, so if something does not work please let me know.
+- AI Engineer for 10++ years on AI for automated pen testing, multimodal transformers, and novel swarming architectures.
+
+
+Glory to God.
