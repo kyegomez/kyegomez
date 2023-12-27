@@ -1,4 +1,4 @@
-- CEO of [Swarms](https://www.swarms.world/)
+- CEO of [Swarms](https://www.swarms.world/), enabling enterprises to build, deploy, and scale swarms of autonomous agents for workflow automation.
 - Leader of Agora, advancing Humanity with open source AI research on Multi-Modal and collective intelligence.
 - 👉 [Join Agora Discord Now](https://discord.gg/qUtxnK2NMf)
 - I open source absolutely everything I do, so if something does not work please let me know.
