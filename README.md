@@ -7,3 +7,4 @@
 - My email is kye@apac.ai if you want to contact me for professional inquries
 - [Follow me on twitter for breakdown on AI model architectures](https://twitter.com/KyeGomezB)
 - [Subscribe to my YouTube for new demo videos of my creations](https://www.youtube.com/@kyegomez3242)
+- [Sponsor me on GitHub here](https://github.com/sponsors/kyegomez)
