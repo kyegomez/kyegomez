@@ -3,7 +3,7 @@
 - Leader of [Agora](https://agora-codex.readthedocs.io/en/latest/), an open AI research lab with 3,700+ researchers advancing Humanity with Multi-Modal and collective intelligence research.
 - 👉 [Join Agora Discord Now](https://discord.gg/qUtxnK2NMf)
 - Support me financially [here](https://polar.sh/kyegomez) so I can continue working on open source AI to advance Humanity
-- We're actively fundraising for Swarms and Zeta so if you would like to invest please schedule a conversation with me [here](https://calendly.com/swarm-corp/30min)
+- We're actively fundraising for [Swarms](https://github.com/kyegomez/swarms) and [Zeta](https://github.com/kyegomez/zeta) so if you would like to invest please schedule a conversation with me [here](https://calendly.com/swarm-corp/30min)
 - My email is kye@apac.ai if you want to contact me for professional inquries
 - [Follow me on twitter for breakdown on AI model architectures](https://twitter.com/KyeGomezB)
 - [Subscribe to my YouTube for new demo videos of my creations](https://www.youtube.com/@kyegomez3242)
