@@ -10,7 +10,7 @@
 - [Sponsor me on GitHub here](https://github.com/sponsors/kyegomez)
 - I open source absolutely everything I do, so if something does not work please let me know.
 - AI Engineer for 10++ years on AI for automated pen testing, multimodal transformers, and novel swarming architectures.
-- Financially support me here to accelerate the backlog, find a project of your choice and help me optimize it!
+- Financially support me here to accelerate the backlog!
 
 <a href="https://polar.sh/kyegomez"><img src="https://polar.sh/embed/fund-our-backlog.svg?org=kyegomez" /></a>
 
