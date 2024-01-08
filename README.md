@@ -10,7 +10,7 @@
 - I open source absolutely everything I do, so if something does not work please let me know.
 - AI Engineer for 10++ years on AI for automated pen testing, multimodal transformers, and novel swarming architectures.
 - Financially support me [here](https://polar.sh/kyegomez) so we can eliminate issues on our backlog and continue working on open source AI to advance Humanity!
-- Want to train a custom AI model for a real-world task like General Multi-Modal Models, Facial Recognitions, Drug Discovery, I'll help you create the design then train the model. [Contact me here for more.](https://calendly.com/swarm-corp/30min)
+- Want to train a custom AI model for a real-world task like General Multi-Modal Models, Facial Recognitions, Drug Discovery, Humanoid Robotics? I'll help you create the model architecture then train the model and then optimize it to meet your quality assurance standards. [Contact me here for more.](https://calendly.com/swarm-corp/30min)
 
 <a href="https://polar.sh/kyegomez"><img src="https://polar.sh/embed/fund-our-backlog.svg?org=kyegomez" /></a>
 
