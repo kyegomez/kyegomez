@@ -39,5 +39,6 @@
 - MCVIT
 - Hedgehog
 - MambaByte
+- VideoVIT
 
 Glory to God.
