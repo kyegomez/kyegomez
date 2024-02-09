@@ -21,8 +21,7 @@
 - Autort
 - self extend 
 - GATS
-- ### [USM](https://github.com/kyegomez/USM) Public
-    - Implementation of Google's USM speech model in Pytorch
+- [USM](https://github.com/kyegomez/USM) Implementation of Google's USM speech model in Pytorch
 - VIMA
 - SayCan
 - gen2 + gen1
