@@ -15,4 +15,29 @@
 <a href="https://polar.sh/kyegomez"><img src="https://polar.sh/embed/fund-our-backlog.svg?org=kyegomez" /></a>
 
 
+### Unfinished Paper Implementations:
+- Soundstream
+- Gato
+- Autort
+- self extend 
+- GATS
+- ### [USM](https://github.com/kyegomez/USM) Public
+    - Implementation of Google's USM speech model in Pytorch
+- VIMA
+- SayCan
+- gen2 + gen1
+- vision mamba
+- MoE Mamba
+- SwitchTransformer
+- Midas
+- tritontransformer
+- HRTX
+- Morpheus
+- Drone UAV swarm model in swarms-pytorch: https://github.com/Zhehui-Huang/quad-swarm-rl
+- M2PT
+- UNetMamba
+- Lumiere
+- MCVIT
+- Hedgehog
+
 Glory to God.
