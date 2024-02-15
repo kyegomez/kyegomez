@@ -18,7 +18,7 @@
 Unfinished Paper Implementations:
 - [ ] Soundstream
 - [ ] Gato
-- [ ] Autort
+- [x] Autort
 - [ ] self extend
 - [ ] GATS
 - [ ] USM Implementation of Google's USM speech model in Pytorch
@@ -30,7 +30,7 @@ Unfinished Paper Implementations:
 - [ ] SwitchTransformer
 - [ ] Midas
 - [ ] tritontransformer
-- [ ] HRTX
+- [x] HRTX
 - [ ] Morpheus
 - [ ] Drone UAV swarm model in swarms-pytorch: https://github.com/Zhehui-Huang/quad-swarm-rl
 - [ ] M2PT
@@ -41,5 +41,6 @@ Unfinished Paper Implementations:
 - [ ] MambaByte
 - [x] VideoVIT
 - [ ] Hedgehog
+- [ ] LiMoE
 
 Glory to God.
