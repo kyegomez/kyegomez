@@ -38,6 +38,7 @@ Unfinished Paper Implementations:
 - [ ] Lumiere
 - [ ] MCVIT
 - [ ] Hedgehog
+- [ ] Vit-RGTS
 - [ ] MambaByte
 - [x] VideoVIT
 - [ ] Hedgehog
