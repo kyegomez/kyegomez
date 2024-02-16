@@ -43,5 +43,6 @@ Unfinished Paper Implementations:
 - [x] VideoVIT
 - [ ] Hedgehog
 - [ ] LiMoE
+- [ ] Sora
 
 Glory to God.
