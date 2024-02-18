@@ -44,5 +44,8 @@ Unfinished Paper Implementations:
 - [ ] Hedgehog
 - [ ] LiMoE
 - [ ] Sora
+- [ ] DSH
+- [ ] EchoPulse
+- 
 
 Glory to God.
