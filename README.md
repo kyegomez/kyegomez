@@ -46,6 +46,7 @@ Unfinished Paper Implementations:
 - [ ] Sora
 - [ ] DSH
 - [ ] EchoPulse
-- 
+- [ ] Algorithm of Thoughts
+- [ ] Simple Mamba
 
 Glory to God.
