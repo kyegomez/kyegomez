@@ -50,5 +50,6 @@ Unfinished Paper Implementations:
 - [ ] Simple Mamba
 - [ ] Vision Llama
 - [ ] BitNet
+- [ ] Griffin
 
 Glory to God.
