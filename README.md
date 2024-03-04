@@ -48,5 +48,7 @@ Unfinished Paper Implementations:
 - [ ] EchoPulse
 - [ ] Algorithm of Thoughts
 - [ ] Simple Mamba
+- [ ] Vision Llama
+- [ ] BitNet
 
 Glory to God.
