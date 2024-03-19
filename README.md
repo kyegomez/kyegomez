@@ -1,3 +1,5 @@
+# hey there 👋 
+
 - Advancing Humanity through open source multi-modal and collective intelligence research.
 - CEO of [Swarms](https://www.swarms.world/), enabling enterprises to build, deploy, and scale swarms of autonomous agents for workflow automation.
 - Leader of [Agora](https://agora-codex.readthedocs.io/en/latest/), an open AI research lab with 3,700+ researchers advancing Humanity with Multi-Modal and collective intelligence research.
@@ -15,7 +17,8 @@
 <a href="https://polar.sh/kyegomez"><img src="https://polar.sh/embed/fund-our-backlog.svg?org=kyegomez" /></a>
 
 
-Unfinished Paper Implementations:
+## Unfinished Paper Implementations:
+
 - [ ] Soundstream
 - [ ] Gato
 - [x] Autort
