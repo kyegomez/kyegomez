@@ -51,5 +51,6 @@ Unfinished Paper Implementations:
 - [ ] Vision Llama
 - [ ] BitNet
 - [ ] Griffin
+- [ ] MM1
 
 Glory to God.
