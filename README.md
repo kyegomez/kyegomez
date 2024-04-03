@@ -55,5 +55,7 @@
 - [ ] BitNet
 - [ ] Griffin
 - [ ] MM1
+- [ ] Gamba
+- [ ] ViTar
 
 Glory to God.
