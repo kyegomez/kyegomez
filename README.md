@@ -9,7 +9,7 @@
   - [Swarms - Workflow Automation](https://www.swarms.world/)
   - [Agora, the multi-modal AI research lab](https://discord.gg/qUtxnK2NMf)
 
-### Group 3: Support
+### Support my Work
 - **Support My Initiatives:** Various ways to support my projects and continued open-source contributions.
   - [Sponsor my GitHub Projects](https://github.com/sponsors/kyegomez)
   - [Financial Support for Backlog Elimination](https://polar.sh/kyegomez)
