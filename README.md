@@ -1,18 +1,23 @@
-# hey there 👋 
+# Welcome to My Github 🙏 
 
-- Advancing Humanity through open source multi-modal and collective intelligence research.
-- CEO of [Swarms](https://www.swarms.world/), enabling enterprises to build, deploy, and scale swarms of autonomous agents for workflow automation.
-- Leader of [Agora](https://agora-codex.readthedocs.io/en/latest/), an open AI research lab with 3,700+ researchers advancing Humanity with Multi-Modal and collective intelligence research.
-- 👉 [Join Agora Discord Now](https://discord.gg/qUtxnK2NMf)
-- My email is kye@apac.ai if you want to contact me for professional inquries
-- [Follow me on twitter for breakdown on AI model architectures](https://twitter.com/KyeGomezB)
-- [Subscribe to my YouTube for new demo videos of my creations](https://www.youtube.com/@kyegomez3242)
-- [Sponsor me on GitHub here](https://github.com/sponsors/kyegomez)
-- I open source absolutely everything I do, so if something does not work please let me know.
-- AI Engineer for 10++ years on AI for automated pen testing, multimodal transformers, and novel swarming architectures.
-- Financially support me [here](https://polar.sh/kyegomez) so we can eliminate issues on our backlog and continue working on open source AI to advance Humanity!
-- Want to train a custom AI model for a real-world task like General Multi-Modal Models, Facial Recognitions, Drug Discovery, Humanoid Robotics? I'll help you create the model architecture then train the model and then optimize it to meet your quality assurance standards. [Contact me here for more.](https://calendly.com/swarm-corp/30min)
+## Purpose
+- **Advancing Humanity through Research:** Explore my role in pushing the boundaries of AI and collective intelligence research.
+  - [Agora - Open AI Research Lab](https://agora-codex.readthedocs.io/en/latest/)
 
+### Occupation
+- **Professional and Community Engagement:** Learn about my professional roles and how you can engage with the community.
+  - [Swarms - Workflow Automation](https://www.swarms.world/)
+  - [Agora, the multi-modal AI research lab](https://discord.gg/qUtxnK2NMf)
+
+### Group 3: Support
+- **Support My Initiatives:** Various ways to support my projects and continued open-source contributions.
+  - [Sponsor my GitHub Projects](https://github.com/sponsors/kyegomez)
+  - [Financial Support for Backlog Elimination](https://polar.sh/kyegomez)
+  - [Follow me on Twitter for AI Insights](https://twitter.com/KyeGomezB)
+  - [Watch New Demos on YouTube](https://www.youtube.com/@kyegomez3242)
+  - [Schedule a Consultation for Custom AI Solutions](https://calendly.com/swarm-corp/30min)
+
+Each of these groups highlights different aspects of your professional identity and offers clear avenues for others to learn about, engage with, or support your work.
 <a href="https://polar.sh/kyegomez"><img src="https://polar.sh/embed/fund-our-backlog.svg?org=kyegomez" /></a>
 
 
@@ -59,4 +64,4 @@
 - [ ] CT
 - [ ] MHMoE
 
-Glory to God.
+Glory to God ✝️ 
