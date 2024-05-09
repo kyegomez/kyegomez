@@ -62,6 +62,7 @@
 - [ ] xLSTM
 - [ ] AlphaFold3
 - [ ] InfiniAttention
+- [ ] Pairformer
 
 
 Glory to God ✝️ 
