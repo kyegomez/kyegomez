@@ -3,7 +3,7 @@ I'm Kye Gomez an Open Source AI Engineer, CEO of Swarms, and Leader of Agora.
 
 I implement closed-source AI research to democratize revolutionary AI tech for all Humans.
 
-And, at Swarms, I help enterprises automate operations and augmenting their team members with swarms of llms.
+And, at [Swarms](https://github.com/kyegomez/swarms), I help enterprises automate operations and augmenting their team members with swarms of llms.
 
 
 # Contact Me
