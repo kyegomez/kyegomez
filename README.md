@@ -18,4 +18,5 @@ And, at [Swarms](https://github.com/kyegomez/swarms), I help enterprises automat
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyegomez)](https://github.com/kyegomez/github-readme-stats)
 
+# Fund my Open-Source Work!
 <a href="https://polar.sh/kyegomez"><img src="https://polar.sh/embed/fund-our-backlog.svg?org=kyegomez" /></a>
