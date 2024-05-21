@@ -7,6 +7,8 @@ And, at Swarms, I help enterprises automate operations and augmenting their team
 
 
 # Contact Me
+- Email: kye@swarms.world
+- Phone Number: +1 786 695 5339
 - [Github:](https://github.com/users/kyegomez)
 - [Twitter](https://x.com/KyeGomezB)
 - [Agora discord](https://discord.gg/Nv8mYDnR)
@@ -14,5 +16,5 @@ And, at Swarms, I help enterprises automate operations and augmenting their team
 - [Get OnBoarded onto Swarms](https://cal.com/swarms/swarms-onboarding-session)
 
 
-<a href="https://polar.sh/kyegomez"><img src="https://polar.sh/embed/fund-our-backlog.svg?org=kyegomez" /></a>
 
+<a href="https://polar.sh/kyegomez"><img src="https://polar.sh/embed/fund-our-backlog.svg?org=kyegomez" /></a>
