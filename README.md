@@ -14,6 +14,7 @@ And, at [Swarms](https://github.com/kyegomez/swarms), I help enterprises automat
 - [Agora discord](https://discord.gg/Nv8mYDnR)
 - [Book a call with me](https://cal.com/swarms)
 - [Get OnBoarded onto Swarms](https://cal.com/swarms/swarms-onboarding-session)
+- [LinkedIn](https://www.linkedin.com/in/kye-g-38759a207)
 
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyegomez)](https://github.com/kyegomez/github-readme-stats)
