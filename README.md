@@ -5,16 +5,7 @@ I implement closed-source AI research to democratize revolutionary AI tech for a
 
 And, at [Swarms](https://github.com/kyegomez/swarms), I help enterprises automate operations and augmenting their team members with swarms of llms.
 
-
-# Contact Me
-- Email: kye@swarms.world
-- Phone Number: +1 786 695 5339
-- [Github:](https://github.com/users/kyegomez)
-- [Twitter](https://x.com/KyeGomezB)
-- [Agora discord](https://discord.gg/Nv8mYDnR)
-- [Book a call with me](https://cal.com/swarms)
-- [Get OnBoarded onto Swarms](https://cal.com/swarms/swarms-onboarding-session)
-- [LinkedIn](https://www.linkedin.com/in/kye-g-38759a207)
+Check out my website to learn more about me and contact me [HERE](https://kyegomez.com/)
 
 # Stats
 [![Kye's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyegomez)](https://github.com/kyegomez/github-readme-stats)
