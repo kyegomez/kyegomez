@@ -2,7 +2,7 @@
 
 I'm Kye Gomez an Open Source AI Engineer and CEO of Swarms.
 
-I implement closed-source AI research to democratize revolutionary AI tech for all Humans.
+And, I also implement closed-source AI research papers to democratize super-intelligence
 
 And, at [Swarms](https://github.com/kyegomez/swarms), we enable organizations to become fully autonomous
 
