@@ -1,12 +1,11 @@
 # Hey There 👋
 
-I'm Kye Gomez an Open Source AI Engineer and CEO of Swarms.
+I'm Kye Gomez, Founder of [Swarms](https://swarms.ai)
 
-And, I also implement closed-source AI research papers to democratize super-intelligence
+Our mission at swarms is to build the agentic economy enabling startups, organizations, and institutions to build fully autonomous organizations with multi-agent collaboration. Swarms provides a vast array of developer tools for python, rust, and various other ecosystems! [Learn mroe about us here](https://www.swarms.ai/)
 
-And, at [Swarms](https://github.com/kyegomez/swarms), we enable organizations to become fully autonomous
-
-Check out my website to learn more about me and contact me [HERE](https://kyegomez.com/)
+- [Join My Discord!](https://discord.gg/EamjgSaEQf)
+- [Personal Website](https://kyegomez.com)
 
 # Stats
 
