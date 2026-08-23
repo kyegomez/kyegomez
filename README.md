@@ -1,7 +1,16 @@
 # Hey There 👋
 
-I'm Kye Gomez, Founder of [Swarms](https://swarms.ai). Our mission at swarms is to build the agentic economy enabling startups, organizations, and institutions to build fully autonomous organizations with multi-agent collaboration. Swarms provides a vast array of developer tools for python, rust, and various other ecosystems! [Learn more about us here](https://www.swarms.ai/) Join our team [learn more](https://swarms.ai/hiring)
+I'm Kye Gomez, Founder of [Swarms](https://swarms.ai).
 
-- [Join My Discord!](https://discord.gg/EamjgSaEQf)
+At Swarms, we're building the infrastructure for the agentic economy, enabling startups, organizations, and institutions to build, deploy, and scale multi-agent systems.
 
-- [Personal Website](https://kyegomez.com)
+Beyond building Swarms, I research multimodal models, Vision-Language-Action models, State Space Models, and other model architectures. I enjoy implementing research papers from scratch, exploring new model architectures, and turning complex ideas into practical, open-source implementations that help others learn how intelligent systems are built.
+
+[Learn more about Swarms](https://www.swarms.ai/) · [Join the team](https://swarms.ai/hiring)
+
+### Contact
+
+* [Twitter](https://x.com/KyeGomezB)
+* [Discord](https://discord.gg/EamjgSaEQf)
+* [Personal Website](https://kyegomez.com)
+* Email: [kye@swarms.world](mailto:kye@swarms.world)
