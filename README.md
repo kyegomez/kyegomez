@@ -10,7 +10,7 @@ Beyond building Swarms, I research multimodal models, Vision-Language-Action mod
 
 ### Contact
 
-* [Twitter](https://x.com/KyeGomezB)
-* [Discord](https://discord.gg/EamjgSaEQf)
-* [Personal Website](https://kyegomez.com)
 * Email: [kye@swarms.world](mailto:kye@swarms.world)
+* [Twitter](https://x.com/KyeGomezB)
+* [Personal Website](https://kyegomez.com)
+* [Discord](https://discord.gg/EamjgSaEQf)
